@@ -16,28 +16,29 @@
 <body>
 
 <header>
-  <h1>Your Name</h1>
-  <p>Web Developer | Designer | Your Profession</p>
+  <h1>Mina Dinh</h1>
+  <p>Photography | Graphic Design | Audio Production | Drawing</p>
 </header>
 
 <section>
   <h2>About Me</h2>
-  <p>Write a brief bio here. Mention your skills, experience, or what you’re passionate about.</p>
+  <p>i'm mina dinh, how have you been? i'm currently a second year at florida state university, double majoring in studio art and applied mathematics. welcome to my portfolio :) </p>
 </section>
 
 <section>
   <h2>Projects</h2>
-  <p>List your projects here or add links to them.</p>
+  <p>Asian American Student Union | Position: Public Relations Coordinator
+  https://www.instagram.com/fsuaasu/ </p>
 </section>
 
 <section>
   <h2>Contact</h2>
-  <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-  <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+  <p>Email: <a href="mailto:mina.dinh@gmail.com">mina.dinh@gmail.com</a></p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/mina-an-dinh" target="_blank">linkedin.com/in/mina-an-dinh</a></p>
 </section>
 
 <footer>
-  <p>© 2024 Your Name</p>
+  <p>© 2024 Mina Dinh</p>
 </footer>
 
 </body>
